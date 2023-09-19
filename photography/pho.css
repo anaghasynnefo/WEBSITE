@@ -2,3 +2,28 @@
     /* text-align: center; */
 padding-left: 400px;
 }
+.b{
+    width: 500px;
+    height: 700px;
+    background:url(pho1.webp) no-repeat left;
+    background-size:850px;
+}
+.c p{
+   margin-right: 300px;
+   margin-top: -700px;
+   font-size: xx-large;
+   color: black;
+}
+.d p{
+    margin-top: -700px;
+}
+.e{
+     /* margin-left:800px;
+    margin-top: -600px; */
+    width: 700px;
+}
+.f{
+    margin-left:850px;
+    margin-top:-900px;
+    max-width:150px;
+}
